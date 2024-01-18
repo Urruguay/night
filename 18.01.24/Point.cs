@@ -50,12 +50,12 @@ namespace _18._01._24
         /// Статический метод, выводящий количество точек, 
         /// расположенных в каждой координатной четверти, и общее количество точек
         /// </summary>
-        public static void DisplayPointStatistics()
+        static void DisplayPointStatistics()
         {
-            WriteLine($"Number of points in Quadrant 1: {quarter1}");
-            WriteLine($"Number of points in Quadrant 2: {quarter2}");
-            WriteLine($"Number of points in Quadrant 3: {quarter3}");
-            WriteLine($"Number of points in Quadrant 4: {quarter4}");
+            WriteLine($"Number of points in Quarter 1: {quarter1}");
+            WriteLine($"Number of points in Quarter 2: {quarter2}");
+            WriteLine($"Number of points in Quarter 3: {quarter3}");
+            WriteLine($"Number of points in Quarter 4: {quarter4}");
             WriteLine($"Total number of points: {totalCount}");
         }
 
@@ -79,6 +79,10 @@ namespace _18._01._24
             else if (x > 0 && y < 0)
             {
                 quarter4++;
+            }
+            else
+            {
+                WriteLine("zero point");
             }
         }
     }
