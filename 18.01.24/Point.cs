@@ -50,7 +50,7 @@ namespace _18._01._24
         /// Статический метод, выводящий количество точек, 
         /// расположенных в каждой координатной четверти, и общее количество точек
         /// </summary>
-        static void DisplayPointStatistics()
+        public static void DisplayPointStatistics()
         {
             WriteLine($"Number of points in Quarter 1: {quarter1}");
             WriteLine($"Number of points in Quarter 2: {quarter2}");
