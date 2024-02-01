@@ -1,0 +1,8 @@
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\bin\Debug\22.01.2024.exe.config
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\bin\Debug\22.01.2024.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\bin\Debug\22.01.2024.pdb
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\obj\Debug\22.01.2024.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\obj\Debug\22.01.2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\obj\Debug\22.01.2024.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\obj\Debug\22.01.2024.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\22.01.2024\obj\Debug\22.01.2024.pdb
