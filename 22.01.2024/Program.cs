@@ -60,7 +60,8 @@ namespace _22._01._2024
         {
             //Задание 1. Вывести сообщение с информацией о текущей системной дате,
             //применив несколько форматов.
-            DateTime dt = new DateTime(2022, 1, 20, 13, 5, 20);
+            //DateTime dt = new DateTime(2022, 1, 20, 13, 5, 20);
+            DateTime dt = DateTime.Now;
             WriteLine();
             WriteLine("Текущая дата:");
             WriteLine(dt.ToString("d")); //20.01.2022
