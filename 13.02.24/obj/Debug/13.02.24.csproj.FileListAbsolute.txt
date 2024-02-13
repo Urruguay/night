@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\bin\Debug\13.02.24.exe.config
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\bin\Debug\13.02.24.exe
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\bin\Debug\13.02.24.pdb
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\obj\Debug\13.02.24.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\obj\Debug\13.02.24.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\obj\Debug\13.02.24.exe
+C:\Users\Kab-35-6\Documents\GitHub\night\13.02.24\obj\Debug\13.02.24.pdb

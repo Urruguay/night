@@ -7,7 +7,7 @@
     <ProjectGuid>{04499436-09A7-4AD5-BE55-DA7568B3F0D4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_13._02._24</RootNamespace>
-    <AssemblyName>_13._02._24</AssemblyName>
+    <AssemblyName>13.02.24</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
