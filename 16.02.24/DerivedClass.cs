@@ -3,43 +3,72 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
+
 
 namespace _16._02._24
 {
-    class DerivedClass:CClass
+    /// <summary>
+    /// Класс, наследующий функциональность от базового класса CClass.
+    /// </summary>
+    class DerivedClass :CClass
     {
-        //public override void Metod2()
-        //{
-        //    base.Metod2();
-        //     Console.WriteLine("Виртуальный метод Metod2 из абстрактного класса AClass,реализованный в классе DerivedClass");
-        //}
-        //public override void Metod3()
-        //{
-        //    Console.WriteLine("Metod3 из класса AClass, реализованный в классе DerivedClass");
-        //}
-        //public override void Metod4()
-        //{
-        //    Console.WriteLine("Metod4 из класса AClass, реализованный в классе DerivedClass");
-        //}
-        
+
+        /*
         /// <summary>
-        /// переопределенный метод из класса AClass
+        /// Переопределяет виртуальный метод Metod2 из базового класса.
+        /// </summary>
+        public override void Metod2()
+        {
+            base.Metod2();
+            WriteLine("Виртуальный метод Metod2 из абстрактного класса AClass,реализованный в классе DerivedClass");
+        }
+        /// <summary>
+        /// Переопределяет абстрактный метод Metod3 из базового класса AClass.
+        /// </summary>
+        public override void Metod3()
+        {
+            WriteLine("Metod3 из класса AClass, реализованный в классе DerivedClass");
+        }
+        /// <summary>
+        /// Переопределяет абстрактный метод Metod4 из базового класса AClass.
+        /// </summary>
+        public override void Metod4()
+        {
+            WriteLine("Metod4 из класса AClass, реализованный в классе DerivedClass");
+        }
+        */
+
+
+
+        /// <summary>
+        /// Переопределенный метод из класса AClass
         /// </summary>
         public override void Metod()
         {
-            Console.WriteLine("Метод Metod");
+            WriteLine("Метод Metod");
         }
-        public override int Metod2(int x, int y)
+        /// <summary>
+        /// Переопределенный метод из класса BClass
+        /// </summary>
+        public override int Sum(int x, int y)
         {
             return x + y;
         }
-        public override string Privetstvie(string s)
+        /// <summary>
+        /// Переопределенный метод из класса CClass
+        /// </summary>
+        public override string Hello(string name)
         {
-            return  $"Приветствую тебя,{s}";
+            return  $"Доброго времени суток, {name}!";
         }
-        public void Vyvod(string s) 
+        /// <summary>
+        /// Выводит приветствие с указанным именем.
+        /// </summary>
+        /// <param name="name">Имя, которое будет использовано в приветствии.</param>
+        public void Conclusion(string name) 
         {
-            Console.WriteLine($"Привет,{s}");
+            WriteLine($"Приветсвую, {name}!");
         }
     }
 }
