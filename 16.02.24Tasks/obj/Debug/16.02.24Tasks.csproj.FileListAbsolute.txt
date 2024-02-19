@@ -1,0 +1,8 @@
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\bin\Debug\16.02.24Tasks.exe.config
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\bin\Debug\16.02.24Tasks.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\bin\Debug\16.02.24Tasks.pdb
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\obj\Debug\16.02.24Tasks.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\obj\Debug\16.02.24Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\obj\Debug\16.02.24Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\obj\Debug\16.02.24Tasks.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\16.02.24Tasks\obj\Debug\16.02.24Tasks.pdb
