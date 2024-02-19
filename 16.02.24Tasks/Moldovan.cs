@@ -19,16 +19,13 @@ namespace _16._02._24Tasks
         /// </summary>
         public Moldovan() { }
         /// <summary>
-        /// /// <summary>
         /// Конструктор с параметрами
-        /// </summary>
         /// </summary>
         /// <param name="name"></param>
         public Moldovan(string name)
         {
             Name = name;
         }
-
         /// <summary>
         /// Переопределение метода приветствия
         /// </summary>
