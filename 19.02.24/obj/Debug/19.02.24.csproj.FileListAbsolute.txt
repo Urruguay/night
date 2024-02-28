@@ -1,0 +1,16 @@
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\bin\Debug\19.02.24.exe.config
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\bin\Debug\19.02.24.exe
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\bin\Debug\19.02.24.pdb
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\obj\Debug\19.02.24.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\obj\Debug\19.02.24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\obj\Debug\19.02.24.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\obj\Debug\19.02.24.exe
+C:\Users\Irina\Desktop\4 семестр\РПМ\RPM\19.02.24\obj\Debug\19.02.24.pdb
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\bin\Debug\19.02.24.exe.config
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\bin\Debug\19.02.24.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\bin\Debug\19.02.24.pdb
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\obj\Debug\19.02.24.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\obj\Debug\19.02.24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\obj\Debug\19.02.24.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\obj\Debug\19.02.24.exe
+C:\Users\Irina\Desktop\4 семестр\ОАиП\night\19.02.24\obj\Debug\19.02.24.pdb
