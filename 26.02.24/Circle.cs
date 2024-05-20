@@ -3,31 +3,32 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace _26._02._24
 {
     class Circle:Figure
     {
-        private int side1;
+        private double radius;
 
         public Circle(string name) : base(name) { }
-        public Circle(int side1, string name) : base(name)
+        public Circle(double radius, string name) : base(name)
         {
-            this.side1 = side1;
+            this.radius = radius;
         }
-        public int Side1 { get => side1; set => side1 = value; }
+        public double Radius { get => radius; set => radius = value; }
         public override double Area()
         {
-            return Math.PI * Math.Pow(side1, 2) ;
+            return Math.PI * Math.Pow(radius, 2) ;
         }
         public override double Perimeter()
         {
-            return side1* 2*Math.PI;
+            return 2 * Math.PI * radius;
         }
         public override void Print()
         {
             base.Print();
-            Console.WriteLine($"{side1}");
+            WriteLine($"Radius: {radius}");
         }
     }
 }

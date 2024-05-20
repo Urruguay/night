@@ -1,33 +1,42 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace _26._02._24
 {
-    class Square:Figure
+    /// <summary>
+    /// Производный класс для квадрата.
+    /// </summary>
+    class Square :Figure
     {
-        private int side1;
+        private double side;
 
         public Square(string name):base(name) { }
-        public Square(int side1, string name) : base(name)
+        public Square(double side, string name) : base(name)
         {
-            this.side1 = side1;
+            this.side = side;
         }
-        public int Side1 { get => side1; set => side1 = value; }
+        /// <summary>
+        /// Свойство с вещественным типом данных Side
+        /// Получает или устанавливает длину стороны квадрата.
+        /// </summary>
+        public double Side { get => side; set => side = value; }
         public override double Area()
         {
-            return side1 * side1;
+            return side * side;
         }
         public override double Perimeter()
         {
-            return Math.Pow(side1, 2) * 2 ;
+            return 4 * side ;
         }
         public override void Print()
         {
             base.Print();
-            Console.WriteLine($"{side1}");
+            WriteLine($"Side1: {side}");
         }
     }
 }
