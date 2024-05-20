@@ -1,8 +1,0 @@
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\bin\Debug\01.03.24.exe.config
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\bin\Debug\01.03.24.exe
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\bin\Debug\01.03.24.pdb
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\obj\Debug\01.03.24.csproj.AssemblyReference.cache
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\obj\Debug\01.03.24.csproj.SuggestedBindingRedirects.cache
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\obj\Debug\01.03.24.csproj.CoreCompileInputs.cache
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\obj\Debug\01.03.24.exe
-C:\Users\Irina\Desktop\4 семестр\ОАиП\night\01.03.24\obj\Debug\01.03.24.pdb
